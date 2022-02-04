@@ -1,1 +1,2 @@
-# Angular-Training
+# 01-Assignment
+![LAYOUT!]{images/landing page.png}
